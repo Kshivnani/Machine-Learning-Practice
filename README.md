@@ -6,4 +6,3 @@ This repository is for practice Machine Learning
 <br>
 <p>1. Linear Regression</p>
 <p>2. Linear Regression From Scratch</p>
-
