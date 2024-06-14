@@ -5,4 +5,5 @@ This repository is for practice Machine Learning
 2024
 <br>
 <p>1. Linear Regression</p>
+<p>1. Linear Regression From Scratch</p>
 
