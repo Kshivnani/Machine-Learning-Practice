@@ -1,6 +1,6 @@
 # Machine-Learning-Practice
 <br>
-This repository is for practice Machine Learning
+This repository is for Machine Learning Practice.
 <br>
 2024
 <br>
